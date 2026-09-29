@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .translator {
+            background-color: #1e1e1e;
+            border-radius: 12px;
+        }
+        textarea {
+            height: 180px;
+
+        }
+    
+        .form-select {
+            background-color: #2d2d2d;
+            color: #fff;
+            border-color: #444;
+        }
